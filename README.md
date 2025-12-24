@@ -82,4 +82,14 @@ and model performance.
 
 ---
 
-## 📁 Project Structure
+## 📌 Conclusion
+This project demonstrates the effectiveness of **XGBoost Regression**
+for predicting house prices using real-world housing data.
+The model achieves strong performance and can be further improved
+using hyperparameter tuning and cross-validation.
+
+---
+
+## 👩‍💻 Author
+**Anjali Sevkani**
+
